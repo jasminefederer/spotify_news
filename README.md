@@ -27,3 +27,7 @@ for the spotify keys, i used this format:
 
 news key is in separate txt doc on its own
 
+
+
+*please find versions in requirements.txt
+
